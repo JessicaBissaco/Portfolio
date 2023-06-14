@@ -21,7 +21,7 @@
         <section class="apresentacao__conteudo">
             <h1 class="apresentacao__conteudo__titulo">Eleve seu negócio digital a outro nível
                 <strong class="titulo-destaque">com um Front-end de qualidade!</strong></h1>
-            <p class="apresentacao__conteudo__texto">Olá! Sou Jéssica Bissaco, desenvolvedora Front-end e Back-end com conhecimento em diversas linguagens de programação e me aperfeiçoando em Javascript, HTML e CSS na <a href="https://www.alura.com.br/">Alura</a></p>
+            <p class="apresentacao__conteudo__texto">Olá! Sou Jéssica Bissaco, desenvolvedora Front-end e Back-end com conhecimento em diversas linguagens de programação e estou me aperfeiçoando em Javascript, HTML e CSS na <a href="https://www.alura.com.br/">Alura</a></p>
             <div class="apresentacao__links">
                 <h2 class="apresentacao__links__subtitulo">Acesse minhas redes:</h2>
                 <a class="apresentacao__links__navegacao" href="https://instagram.com/jessicabissaco">
